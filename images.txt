@@ -5,3 +5,5 @@
 alpine
 python:alpine3.19
 bitnami/zookeeper:3.7.0
+mysql:8.0.28
+redis:5
